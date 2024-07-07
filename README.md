@@ -72,6 +72,11 @@ Contributions are welcome! Please fork the repository and create a pull request 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
+## Live Demo
+
+
+- Try the calculator [here](https://calculator-omega-nine-65.vercel.app/).
+
 ## Acknowledgements
 
 - [React.js](https://reactjs.org/)
