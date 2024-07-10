@@ -73,9 +73,7 @@ Contributions are welcome! Please fork the repository and create a pull request 
 5. Open a pull request
 
 ## Live Demo
-
-
-- Try the calculator [here](https://calculator-omega-nine-65.vercel.app/).
+View the live demo of this project here: [Calculator](https://calculator-omega-nine-65.vercel.app/)
 
 ## Acknowledgements
 
