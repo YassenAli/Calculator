@@ -63,6 +63,7 @@ The app should now be running on http://localhost:3000.
  <div align="center">
    
 ![Calculator](Calculator.png)
+</div>
 
 ## Contributing
 
