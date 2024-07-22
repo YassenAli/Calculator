@@ -60,7 +60,7 @@ The app should now be running on http://localhost:3000.
   - `App.css`: CSS file for styling the calculator.
   - `index.js`: Entry point of the application.
 
- <div align="center">
+ <div align="center" width="50px">
    
 ![Calculator](Calculator.png)
 
