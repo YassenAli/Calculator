@@ -59,7 +59,9 @@ The app should now be running on http://localhost:3000.
   - `App.js`: Main React component for the calculator.
   - `App.css`: CSS file for styling the calculator.
   - `index.js`: Entry point of the application.
- 
+
+ <div align="center">
+   
 ![Calculator](Calculator.png)
 
 ## Contributing
